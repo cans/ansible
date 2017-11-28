@@ -1,0 +1,4 @@
+argcomplete
+ipdb
+pycodestyle
+Sphinx
